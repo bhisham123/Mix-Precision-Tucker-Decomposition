@@ -2,8 +2,7 @@
 
 This repository contains MATLAB codes to reproduce the results presented in the paper:
 
-**"Mixed Precision Compression of Tucker Decomposition"**  
-by *Grey Ballard, Theo Mary, and Bhisham Dev Verma*. (Submitted, 2026).
+**"Mixed Precision Compression of Tucker Decomposition"** by *Grey Ballard, Theo Mary, and Bhisham Dev Verma*. (Submitted, 2026).
 
 ## Repository Structure and Usage
 - `mix_precision_hosvd.m` is the main script.
